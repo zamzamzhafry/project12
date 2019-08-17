@@ -1,0 +1,96 @@
+3;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+4;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+1;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+6;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+5;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+2;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+4;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+6;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+2;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+5;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+1;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
+3;
+persiapan awal spooring;
+pemasangan peralatan spooring;
+input data kendaraan;
+kalibrasi alat spooring;
+pembacaan hasil spooring;
+penyetelan sudut spooring;
+|
